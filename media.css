@@ -1,0 +1,132 @@
+@media (max-width:768px) {
+
+
+  header{
+    height: 60vh;
+  }
+
+
+ nav .navbar {
+  flex-direction: column;
+ }
+
+ nav .navbar .info{
+  display: none;
+ }
+
+
+ .yoga .col-1{
+  flex-direction: column;
+ }
+
+
+ .yoga-center{
+  flex-direction: column;
+ }
+
+ .yoga-center .left{
+  width: 100%;
+  padding: 2rem 1rem;
+
+ }
+
+ .yoga-center .right{
+  width: 100%;
+ }
+
+ .yoga-center .right img{
+  width: 100%;
+  height: 100%;
+}
+
+.advantage{
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+}
+
+.advantage .mind{
+ flex-direction: column;
+ gap: 35px;
+  margin:0 25%;
+  padding-top: 1.5rem;
+}
+
+.advantage .mind .left-1{
+ text-align: center;
+  
+}
+
+.advantage .mind .right-1{
+  text-align: center; 
+}
+
+.advantage .health{
+  flex-direction: column;
+  gap: 35px;
+   margin:0 25%;
+   padding-top: 1.5rem;
+ }
+ 
+ .advantage .health .left-1{
+  text-align: center;
+   
+ }
+ 
+ .advantage .health .right-1{
+   text-align: center; 
+ }
+
+
+ .advantage .refresh{
+  flex-direction: column;
+  gap: 35px;
+   margin:0 25%;
+   padding: 1.5rem 0;
+ }
+ 
+ .advantage .refresh .left-1{
+  text-align: center;
+   
+ }
+ 
+ .advantage .refresh .right-1{
+   text-align: center; 
+ }
+
+ .classes .row{
+  flex-direction: column;
+ }
+
+ .classes .row .col-1{
+  margin: 1rem 0;
+ }
+
+
+ .schedule .row{
+  flex-direction: column;
+ }
+
+ .schedule .row .col-2{
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+.trainers .row{
+  flex-direction: column;
+}
+
+.trainers .row .col-3{
+   margin: .1rem;
+ }
+
+ .footer .Rights .all{
+  display: block;
+  text-align: center;
+  padding: 1rem 0;
+ }
+
+
+}
+
